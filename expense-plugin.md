@@ -2,7 +2,6 @@
 # Zuri Chat Expense Plugin
 
 
-[![(https://lucid.app/lucidchart/invitations/accept/inv_da6ceae5-e62f-42bc-a9f8-cc0a4a002a85?viewport_loc=287%2C311%2C1480%2C616%2C0_0)]
 
 
 
